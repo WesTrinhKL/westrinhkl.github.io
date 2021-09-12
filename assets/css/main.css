@@ -3882,3 +3882,24 @@ input, select, textarea {
 		}
 
 	}
+
+
+
+/*
+	#icon-fit{
+		height: fit-content
+	} */
+
+/* .icon-fit{
+	font-family: 'Font Awesome 5 Brands';
+} */
+
+.icon-text-fit{
+	margin-top: 10px;
+	position: absolute;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-weight: normal;
+}
+.icon-fit{
+	height: 40px;
+}
