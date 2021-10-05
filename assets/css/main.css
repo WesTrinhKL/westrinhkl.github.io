@@ -177,7 +177,7 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color: #000000;
-		border-bottom: dotted 1px;
+		border-bottom: none;
 	}
 
 		a:hover {
@@ -3912,7 +3912,12 @@ input, select, textarea {
 
 .link-outer{
 	color: rgb(145, 125, 235);
+	text-decoration: none;
 }
 .link-header{
 	color: rgb(69, 132, 214);
+	text-decoration: none;
+}
+.link-text{
+	margin-bottom: 5px;
 }
