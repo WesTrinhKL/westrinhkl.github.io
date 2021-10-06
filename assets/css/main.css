@@ -3921,6 +3921,9 @@ input, select, textarea {
 .link-text{
 	margin-bottom: 5px;
 }
+.link-download{
+	color: rgb(145, 125, 235);
+}
 
 .img-gallery-outline{
 	border-bottom: 1px solid rgb(201, 201, 201);
